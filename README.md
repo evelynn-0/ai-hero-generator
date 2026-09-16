@@ -8,7 +8,13 @@ v0.1.0 · 中文优先 · 源码公开 · 自定义署名许可
 
 ## 怎么用
 
-这是可由 AI 助手读取的指令包，不是独立应用。把整个 `ai-hero-generator` 文件夹提供给支持文件型 Skill 的助手，按该助手的安装方式加载；也可以提供本项目文件，让助手先读 `SKILL.md`。不需要 API 密钥或强制联网。
+这是可由 AI 助手读取的指令包，不是独立应用。不需要 API 密钥或强制联网。
+
+```bash
+npx skills add evelynn-0/ai-hero-generator
+```
+
+不支持该安装器的助手：把整个 `ai-hero-generator` 文件夹提供给支持文件型 Skill 的助手，按该助手的安装方式加载；也可以提供本项目文件，让助手先读 `SKILL.md`。
 
 ```text
 使用 ai-hero-generator
@@ -24,6 +30,10 @@ v0.1.0 · 中文优先 · 源码公开 · 自定义署名许可
 >
 > 使用 AI Hero Generator 生成或辅助完成 · evelynn-0
 > https://github.com/evelynn-0/ai-hero-generator
+
+## 一个负责演，一个负责拆
+
+演完了想拆穿自己？把输出丢给 [AI Hero Detector](https://github.com/evelynn-0/ai-hero-detector)，它会打出一个 0–100 的指数，然后告诉你刚才用了哪几招：黑话、比喻、焦虑、权威、时代宣言。
 
 ## 两个入口
 
