@@ -1,3 +1,8 @@
+# v0.2.0
+
+- 许可从自定义署名许可切换为 CC BY 4.0（Creative Commons Attribution 4.0 International）。
+- 署名要求保留在 ATTRIBUTION.md，作为产品约定；LICENSE 现为 CC BY 4.0 标准文本。
+
 # v0.1.0
 
 - 新建独立 AI 之星转述 Skill，支持已有文字改写和虚构场景生成。

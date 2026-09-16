@@ -2,7 +2,7 @@
 
 **把一句普通的话，说出提前进入下一个时代的感觉。**
 
-v0.1.0 · 中文优先 · 源码公开 · 自定义署名许可
+v0.2.0 · 中文优先 · 源码公开 · CC BY 4.0
 
 输入一段原话或一个场景，输出一本正经的 AI 圈话术戏仿。保持具体事情，让表达从“我写了周报”升级到“个人与组织的信息接口正在被重写”。
 
@@ -65,6 +65,6 @@ npx skills add evelynn-0/ai-hero-generator
 
 ## 署名与许可
 
-使用自定义署名许可，不是 MIT，也未获 OSI 批准。转载、修改、整合须保留许可并标明项目及维护者；按条款公开发布生成结果、截图和视频时也须署名。允许商业使用。详见 [LICENSE](LICENSE)。
+采用 [CC BY 4.0](LICENSE)（Creative Commons Attribution 4.0 International）。转载、修改、整合或再分发须保留许可并标明项目及维护者；公开发布生成结果、截图和视频时请按 [署名说明](ATTRIBUTION.md) 署名。允许商业使用。
 
 项目署名：AI Hero Generator · [evelynn-0](https://github.com/evelynn-0/ai-hero-generator)。项目源码与完整文件可在上述仓库下载。
